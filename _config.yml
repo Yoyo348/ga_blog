@@ -1,9 +1,9 @@
-title: "jekyll-shell-theme"
+title: "Portfolio JosephEnkaoua"
 tagline: "A jekyll theme that looks like a shell/terminal"
 description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
+github_username: Yoyo348
 baseurl: "ga_blog"
-url: "https://tareqdandachi.github.io"
+url: "https://yoyo348.github.io"
 
 plugins:
   - jemoji
@@ -17,8 +17,12 @@ highlighter: rouge
 
 header_pages:
   - index.md
-  - read-me.md
-  - preview.md
+  - bts.md
+  - stage.md
+  - veille.md
+  - cv.md
+  - competences.md
+  - projets.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small

@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-shell-theme"
   spec.version       = "0.1.1"
-  spec.authors       = ["Tareq El Dandachi"]
-  spec.email         = ["tareqdandachi@gmail.com"]
+  spec.authors       = ["Joseph Enkaoua"]
+  spec.email         = ["yossef.enkaoua@gmail.com"]
 
   spec.summary       = "A Jekyll Theme that looks like a shell"
   spec.homepage      = "https://tareqdandachi.github.io/jekyll-shell-theme/"
