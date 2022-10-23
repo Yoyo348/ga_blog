@@ -10,7 +10,8 @@ detail_image: assets/img/port.png
 
 <strong><center><font size="5"> PRESENTATION </font></center><strong/>
 
-Je m'appelle Joseph Enkaoua et suis passionné d'informatique. Je suis diplômé d'un BTS SIO option SISR.
+Je m'appelle Joseph Enkaoua et suis passionné d'informatique. 
+Je suis diplômé d'un BTS SIO option SISR.
 
 <center><img src="assets/img/profil.png"></center>
 
