@@ -20,7 +20,7 @@ detail_image: assets/img/port.png
 J'ai acquis dans le cadre de mon parcours durant mes années d'études différentes compétences qui m'ont encouragés à continuer sur cette voie qu'est l'informatique.
 J'ai d'abord eu un Baccalauréat Economique et Social avec mention assez Bien, puis je suis entré à l'ORT Montreuil pour avoir mon BTS SIO.
 J'ai choisi de me spécialiser vers l'option SISR car c'est ce qui me correspond le plus en Informatique, c'est à dire comprendre comment fonctionne un réseau et le mettre en place, mais aussi savoir trouver des solutions adaptés à chaque types problèmes.
-J'ai pu passer deux stages durant mes études qui m'ont appris à dévellopper mes compétences en réseau.
+J'ai pu passer deux stages durant mes études qui m'ont appris à développer mes compétences en réseau.
 Je possède déjà une première expérience de 3 mois en tant que technicien support, dans laquelle j'ai travaillé et appris différentes choses qui m'ont permis à mieux appréhender les problématiques qui pouvaient se présenter en informatique, j'ai ainsi pu me familiariser avec des outils de ticketing tel que : GLPI et SyncroMSP.
 
 <br><strong><center><font size="4"> Compétences techniques </font></center></strong>
