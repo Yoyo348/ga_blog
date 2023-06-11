@@ -32,7 +32,6 @@ J'ai pu exercer deux postes en lien avec ma formation, un premier poste en tant 
 
 <br><strong><center><font size="4"> Projet professionnel </font></center></strong>
 
-J'apprécie pouvoir aider les utilisateur à mieux se familiariser avec l'informatique en particulier les solutions Open Source qui je pense est un élément essentiel 
-en informatique.
+J'apprécie pouvoir aider les utilisateur à mieux se familiariser avec l'informatique en particulier les outils Open Source qui je pense est un concept essentiel en informatique.
 J'aimerais à l'avenir me spécialiser en cybersécurité en me formant avec des certifications par exemple avec l'OSCP et puis Comptia+
 
