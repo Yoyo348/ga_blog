@@ -17,11 +17,9 @@ detail_image: assets/img/port.png
 
 <strong><center><font size="4"> Parcours Professionnel </font></center></strong>
 
-J'ai acquis dans le cadre de mon parcours durant mes années d'études différentes compétences qui m'ont encouragés à continuer sur cette voie qu'est l'informatique.
-J'ai d'abord eu un Baccalauréat Economique et Social avec mention assez Bien, puis je suis entré à l'ORT Montreuil pour avoir mon BTS SIO.
-J'ai choisi de me spécialiser vers l'option SISR car c'est ce qui me correspond le plus en Informatique, c'est à dire comprendre comment fonctionne un réseau et le mettre en place, mais aussi savoir trouver des solutions adaptés à chaque types problèmes.
-J'ai pu passer deux stages durant mes études qui m'ont appris à développer mes compétences en réseau.
-Je possède déjà une première expérience de 3 mois en tant que technicien support, dans laquelle j'ai travaillé et appris différentes choses qui m'ont permis à mieux appréhender les problématiques qui pouvaient se présenter en informatique, j'ai ainsi pu me familiariser avec des outils de ticketing tel que : GLPI et SyncroMSP.
+Actuellement titulaire d'un BTS SIO avec l'Option SISR, j'ai dévelloppé dans le cadre de ma formation et expériences professionnels différentes compétences dans le domaine de l'informatiques.
+J'ai obtenu la Certification "LPI Linux Essential" reconnu dans le millieu professionnel qui témoigne de mes connaissances dans le système d'exploitation Linux.
+J'ai pu exercer deux postes en lien avec ma formation, un premier poste en tant que Technicien Support Informatique pour la société JESTO, un second poste en tant que Gestionnaire d'Hbilitation pour un Groupe Hospitalier.
 
 <br><strong><center><font size="4"> Compétences techniques </font></center></strong>
 
@@ -34,9 +32,7 @@ Je possède déjà une première expérience de 3 mois en tant que technicien su
 
 <br><strong><center><font size="4"> Projet professionnel </font></center></strong>
 
-J'aimerais aider les personnes à mieux se familiariser avec l'informatique en particulier les solutions Open Source qui je pense est un élément essentiel 
-en informatique. 
-J'aimerais à l'avenir me spécialiser en cybersécurité en faisant des certifications directement en ligne par exemple en commançant par la certification CEH et puis Comptia+
-
-
+J'apprécie pouvoir aider les utilisateur à mieux se familiariser avec l'informatique en particulier les solutions Open Source qui je pense est un élément essentiel 
+en informatique.
+J'aimerais à l'avenir me spécialiser en cybersécurité en me formant avec des certifications par exemple avec l'OSCP et puis Comptia+
 
