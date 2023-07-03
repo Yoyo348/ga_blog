@@ -19,7 +19,7 @@ detail_image: assets/img/port.png
 
 Titulaire d'un BTS SIO avec l'Option SISR, j'ai dévelloppé dans le cadre de ma formation et expériences professionnels différentes compétences dans le domaine de l'informatiques.
 J'ai obtenu la Certification "LPI Linux Essential" reconnu dans le millieu professionnel qui témoigne de mes connaissances dans le système d'exploitation Linux.
-J'ai pu exercer deux postes en lien avec ma formation, un premier poste en tant que Technicien Support Informatique pour la société JESTO, un second poste en tant que Gestionnaire d'Habilitation pour un Groupe Hospitalier.
+J'ai pu exercer plusieurs postes en lien avec ma formation, un premier poste en tant que Technicien Support Informatique pour la société JESTO, un second poste en tant que Gestionnaire d'Habilitation pour le Groupe Hospitalier Saint-Joseph, et puis un troixième poste en tant que Technicien de Déploiement Informatique chez SCC.
 
 <br><strong><center><font size="4"> Compétences techniques </font></center></strong>
 
