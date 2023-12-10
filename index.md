@@ -17,7 +17,7 @@ detail_image: assets/img/port.png
 
 <strong><center><font size="4"> Parcours Professionnel </font></center></strong>
 
-Titulaire d'un BTS SIO avec l'Option SISR, j'ai dévelloppé dans le cadre de ma formation et expériences professionnels différentes compétences dans le domaine de l'informatiques.
+Titulaire d'un BTS SIO avec l'Option SISR, j'ai dévelloppé différentes compétences avec mon expérience dans le domaine Informatiques.
 J'ai obtenu plusieurs certifications reconnus qui sont : LPI Linux Essential, LPI Security Essentials, LPI Web Development Essentials qui attestent de mes connaissances dans le système d'exploitation Linux.
 J'ai pu exercer plusieurs postes en lien avec ma formation : 
 - Technicien Support Informatique pour l'entreprise JESTO
