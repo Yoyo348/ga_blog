@@ -29,7 +29,7 @@ J'ai égallement obtenu plusieurs certifications en IT reconnus dans le millieu 
 - LPI Web Development Essentials.
 - Comptia Server+ SK0-005  
 
-<br><strong><center><font size="4"> Compétences techniques </font></center></strong>
+<strong><center><font size="4"> Compétences techniques </font></center></strong>
 
 - Outils de Ticketing : GLPI/SyncroMSP
 - Administration Réseau, Cisco IOS, Ubiquiti Unify, EdgeRouter, OpenSense/Pfsense
@@ -38,7 +38,7 @@ J'ai égallement obtenu plusieurs certifications en IT reconnus dans le millieu 
 - Virtualisation VMware Workstation, VirtualBox
 - Connaissances en solution cloud Microsoft Azure
 
-<br><strong><center><font size="4"> Projet professionnel </font></center></strong>
+<strong><center><font size="4"> Projet professionnel </font></center></strong>
 
 Je voudrais développer mes compétences dans Linux et me spécialiser en cybersécurité avec la certification de l'OSCP.
 
