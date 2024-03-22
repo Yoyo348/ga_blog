@@ -18,11 +18,11 @@ J'ai pu travailler dans différentes entreprises pour différents postes :
 - Technicien de Déploiement Informatique chez SCC
 - Assistant IT pour L'Atelier Des Chef
 - Technicien Helpdesk chez Cerba Healthcare
-- Enquêteur Vacataire chez BVA Xsight et Test-SAS
+- Enquêteur Vacataire chez BVA Xsight et Test-SAS  
 
 <strong><center><font size="4">Formations & Certifications</font></center></strong>
 
-Je suis titulaire d'un Baccalauréat Economique é Social ainsi que d'in BTS SIO SISR. 
+Je suis titulaire d'un Baccalauréat Economique é Social ainsi que d'un BTS SIO SISR. 
 J'ai égallement obtenu plusieurs certifications en IT reconnus dans le millieu professionnel : 
 - LPI Linux Essential
 - LPI Security Essentials
