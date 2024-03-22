@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /ACCUEIL
 title: Accueil
 ---
-<br><strong><center><font size="4">Présentation</font></center></strong>
+<strong><center><font size="4">Présentation</font></center></strong>
 
 <center>Je m'appelle Yossef Enkaoua, je suis Technicien Informatique.</center>
 
@@ -18,7 +18,7 @@ J'ai pu travailler dans différentes entreprises pour différents postes :
 - Technicien de Déploiement Informatique chez SCC
 - Assistant IT pour L'Atelier Des Chef
 - Technicien Helpdesk chez Cerba Healthcare
-- Enquêteur Vacataire chez BVA Xsight et Test-SAS  
+- Enquêteur Vacataire chez BVA Xsight et Test-SAS
 
 <strong><center><font size="4">Formations & Certifications</font></center></strong>
 
