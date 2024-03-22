@@ -6,7 +6,7 @@ title: Accueil
 ---
 <br><strong><center><font size="4">Présentation</font></center></strong>
 
-<strong><center>Je m'appelle Yossef Enkaoua, je suis Technicien Informatique.</center><strong>
+<center>Je m'appelle Yossef Enkaoua, je suis Technicien Informatique.</center>
 
 <center><img src="assets/img/profil.png"></center>
 
