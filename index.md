@@ -35,7 +35,7 @@ J'ai pu travailler dans différentes entreprises :
 - Virtualisation VMware Workstation, VirtualBox
 - Connaissances en solution cloud Microsoft Azure
 
-<br><strong><center><font size="4"> Projets professionnel </font></center></strong>
+<br><strong><center><font size="4"> Projet professionnel </font></center></strong>
 
-Je voudrais développer mes compétences dans Linux et me spécialiser en cybersécurité en me formant avec la certification de l'OSCP.
+Je voudrais développer mes compétences dans Linux et me spécialiser en cybersécurité avec la certification de l'OSCP.
 
