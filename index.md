@@ -5,7 +5,7 @@ permalink_name: /ACCUEIL
 title: Accueil
 ---
 
-<center>Je m'appelle Yossef Enkaoua, je suis Technicien Informatique.</center>
+<strong><center>Je m'appelle Yossef Enkaoua, je suis Technicien Informatique.</center><strong>
 
 <center><img src="assets/img/profil.png"></center>
 
