@@ -12,20 +12,22 @@ title: Accueil
 
 <strong><center><font size="4"> Parcours Professionnel </font></center></strong>
 
-Titulaire d'un BTS SIO avec l'Option SISR, j'ai dévelloppé différentes compétences avec mon expérience dans le domaine Informatique.
-J'ai obtenu plusieurs certifications reconnus qui sont : 
-- LPI Linux Essential
-- LPI Security Essentials
-- LPI Web Development Essentials.
-- Comptia Server+ SK0-005  
-
-J'ai pu travailler dans différentes entreprises :
+J'ai pu travailler dans différentes entreprises pour différents postes :
 - Technicien Support Informatique pour l'entreprise JESTO
 - Gestionnaire d'Habilitation pour le Groupe Hospitalier Paris Saint-Joseph
 - Technicien de Déploiement Informatique chez SCC
 - Assistant IT pour L'Atelier Des Chef
 - Technicien Helpdesk chez Cerba Healthcare
 - Enquêteur Vacataire chez BVA Xsight et Test-SAS
+
+<strong><center><font size="4">Formations & Certifications</font></center></strong>
+
+Je suis titulaire d'un Baccalauréat Economique é Social ainsi que d'in BTS SIO SISR. 
+J'ai égallement obtenu plusieurs certifications en IT reconnus dans le millieu professionnel : 
+- LPI Linux Essential
+- LPI Security Essentials
+- LPI Web Development Essentials.
+- Comptia Server+ SK0-005  
 
 <br><strong><center><font size="4"> Compétences techniques </font></center></strong>
 
