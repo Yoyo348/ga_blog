@@ -13,5 +13,5 @@ title: compétences
 
 <br>
 
-<center><iframe src="assets/pdf/tableau.pdf" height="700" width="700"></iframe></center>
+<center><embed src="assets/pdf/tableau.pdf" height="700" width="700"/></center>
 
