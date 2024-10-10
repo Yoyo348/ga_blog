@@ -15,4 +15,4 @@ title: CV
 
 <br>
 
-<center><iframe src="assets/pdf/cv.pdf" height="700" width="700"></iframe></center>
+<center><embed src="assets/pdf/cv.pdf" height="700" width="700"/></center>
