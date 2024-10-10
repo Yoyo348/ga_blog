@@ -13,5 +13,4 @@ title: compétences
 
 <br>
 
-<center><embed src="assets/pdf/tableau.pdf" height="700" width="700"/></center>
-
+<object data="assets/pdf/tableau.pdf" type="application/pdf" width="100%" height="100%"></object>
