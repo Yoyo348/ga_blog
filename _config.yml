@@ -1,0 +1,28 @@
+title: "Portfolio YossefEnkaoua"
+tagline: "A jekyll theme that looks like a shell/terminal"
+description: "This is a preview of jekyll-shell-theme."
+github_username: Yoyo348
+baseurl: ""
+url: "https://yoyo348.github.io"
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - bts.md
+  - stage.md
+  - veille.md
+  - cv.md
+  - competences.md
+  - projets.md
+
+# set the size of the text to 'large' or 'small', default is small
+font-size: small
