@@ -11,7 +11,7 @@ title: Accueil
 
 <center>Je m'appelle Yossef Enkaoua, je suis Technicien Informatique.</center>
 <b>
-<center><img src="assets/img/profil.png" height=210px width=150px></center>
+<center><img src="assets/img/profil.png" height=200px width=200px></center>
 
 <strong><center><font size="4"> Parcours Professionnel </font></center></strong>
 
