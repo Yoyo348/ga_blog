@@ -49,4 +49,4 @@ J'ai égallement obtenu plusieurs certifications en informatique qui attestent d
 
 <strong><center><font size="4"> Projet professionnel </font></center></strong>
 
-Je voudrais développer mes compétences dans Linux en tant qu'Administrateur Systèmes et Réseaux Linux
+Je voudrais développer mes compétences dans l'Administration des Systèmes et des Réseaux et en particulier dans le système d'exploitation GNU/Linux
