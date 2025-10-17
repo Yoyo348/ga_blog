@@ -22,18 +22,20 @@ J'ai pu travailler dans différentes entreprises pour différents postes :
 - Assistant IT pour L'Atelier Des Chef
 - Technicien Helpdesk chez Cerba Healthcare
 - Enquêteur Vacataire chez BVA Xsight et Test-SAS
-- Technicien Informatique chez Atos
+- Technicien Informatique chez Securinfor
 
 <strong><center><font size="4">Formations & Certifications</font></center></strong>
 
 Je suis titulaire d'un Baccalauréat Economique & Social ainsi que d'un BTS SIO SISR. 
-J'ai égallement obtenu plusieurs certifications en IT reconnus dans le millieu professionnel : 
+J'ai égallement obtenu plusieurs certifications en informatique qui attestent de mes connaissances dans l'Administration Systèmes mais aussi dans la Cybersécurité.
+- Offsec Certified Professional (OSCP)
+- Offsec Certified Professional Plus (OSCP+)
+- Offsec Wireless Professional (OSWP)
+- Comptia Server+ SK0-005
 - LPI Linux Essential
 - LPI Security Essentials
 - LPI Web Development Essentials
 - LPI Open Source Essentials
-- Comptia Server+ SK0-005
-- OSWP
 
 <strong><center><font size="4"> Compétences techniques </font></center></strong>
 
@@ -43,8 +45,8 @@ J'ai égallement obtenu plusieurs certifications en IT reconnus dans le millieu 
 - Administration Office 365
 - Virtualisation VMware Workstation, VirtualBox
 - Connaissances en solution cloud Microsoft Azure
+- Connaissances et compétences en cybersécurité
 
 <strong><center><font size="4"> Projet professionnel </font></center></strong>
 
-Je voudrais développer mes compétences dans Linux et me spécialiser en cybersécurité avec la certification de l'OSCP.
-
+Je voudrais développer mes compétences dans Linux en tant qu'Administrateur Systèmes et Réseaux Linux
