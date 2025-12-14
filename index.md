@@ -31,6 +31,7 @@ J'ai égallement obtenu plusieurs certifications en informatique qui attestent d
 - Offsec Certified Professional (OSCP)
 - Offsec Certified Professional Plus (OSCP+)
 - Offsec Wireless Professional (OSWP)
+- Kali Linux Certified Professional (KLCP)
 - Comptia Server+ SK0-005
 - LPI Linux Essential
 - LPI Security Essentials
